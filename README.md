@@ -122,8 +122,8 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 - District type Original
 ![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_original.png)
 
-- Modified District type output
-- ![THS type modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_type_modified.png)
+- Modified District type output 
+![THS type modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_type_modified.png)
 
     - math and reading scores by grade
     - scores by school spending
