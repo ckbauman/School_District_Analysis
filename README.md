@@ -37,7 +37,7 @@ Next we adjusted the passing percentages, for math and reading, using the adjust
 
 ![Modify percent](https://github.com/ckbauman/School_District_Analysis/blob/main/Modify_Student_Percent.png)
 
-the following shows results of the modification.
+The following shows results of the modification:
 
 - Original District Summary:
 
@@ -46,7 +46,7 @@ the following shows results of the modification.
 
 - Adjusted District Summary:
 
-INSERT:  dist summary modified
+![summary modified](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_Summary_modified.png)
 
 
 ### How is School Summary affected?
