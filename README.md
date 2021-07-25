@@ -108,7 +108,7 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
-- District Size Original
+- District Size Original output
 ![Dist size original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_size_original.png)
 
 - Modified District size output
@@ -119,7 +119,7 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
-- District type Original
+- District type Original output
 ![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_original.png)
 
 - Modified District type output 
