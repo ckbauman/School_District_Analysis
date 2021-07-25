@@ -77,11 +77,13 @@ The results show the Modifed School Summary
 
 ### How does replacing the 9th graders' math and reading scores affect Thomas High School's performance relative to other schools?
 
-The THS adjustments made an impact with comparison to other schools.
+The THS adjustments made minimal impact with comparison to other schools.
 
-INSERT:  THS summary high
+![THS summary high](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_high.png)
 
-As you can see, THS now has an Overall Passing rate of 90.63% which now puts them in the top 5 schools in the District.
+INSERT ORIGINAL DISRICT TOP 5
+
+As you can see, THS now has an Overall Passing rate of 90.63% which leaves them in the top 5 schools in the District.
 
 
 ### How does replacing THS 9th grade scores affect math and reading scores by grade?
