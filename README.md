@@ -61,7 +61,7 @@ To adjust the data, first we had to determine how many students are in 10-12 gra
 
 Next we determined how many THS students were passing math and reading individually as well as overall for both.  Passing is a score greater then 70.
 
-INSERT:  THS student passing
+![THS student passing](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_student_passing.png)
 
 Then we determined what percent of THS students were passing math and reading.  We calculated this using the adjusted THS Total.
 
