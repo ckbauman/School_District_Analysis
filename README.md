@@ -98,7 +98,10 @@ Math and Reading scores per school reflect that the THS 9th grade scores were mo
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
+- District spending Original output
 ![Dist spending original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_spending_original.png)
+
+- Modified District spending output
 ![THS spending modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_spending_modified.png)
 
 ### How does replacing THS 9th grade scores affect scores by school size?
