@@ -89,6 +89,7 @@ The THS adjustments made minimal impact with comparison to other schools.
 
 As you can see, THS now has an Overall Passing rate of 90.63% which leaves them in the top 5 schools in the District.  There is minimal impact if rounded to a whole number.
 
+## Summary
 
 ### How does replacing THS 9th grade scores affect math and reading scores by grade?
 
@@ -131,22 +132,3 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 ![THS type modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_type_modified.png)
 
-    - math and reading scores by grade
-    - scores by school spending 
-    - scores by school size
-    - scores by school type
-
-
-
-
-
-## Summary
-
-summarize 4 changes in the updated school district anlaysis after reading and math scores fo rthe ninth grade at THS have been replaced with NaNs
-
-
-
-    - math and reading scores by grade
-    - scores by school spending
-    - scores by school size
-    - scores by school type
