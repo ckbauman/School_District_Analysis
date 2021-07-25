@@ -119,14 +119,16 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
-- District type Originaloutput
+- District type Original output
+
 ![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_original.png)
 
-- Modified District type output 
+- Modified District type output
+
 ![THS type modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_type_modified.png)
 
     - math and reading scores by grade
-    - scores by school spending
+    - scores by school spending 
     - scores by school size
     - scores by school type
 
