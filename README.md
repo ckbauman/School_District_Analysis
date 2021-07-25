@@ -91,7 +91,7 @@ As you can see, THS now has an Overall Passing rate of 90.63% which leaves them 
 Math and Reading scores per school reflect that the THS 9th grade scores were modified to a Null value indicated by NaN in the Analysis.
 
 ![THS summary math](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_math.png)
-![THS summary reading(https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_reading.png)
+![THS summary reading](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_reading.png)
 
 
 ### How does replacing THS 9th grade scores affect scores by school spending?
