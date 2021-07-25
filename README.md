@@ -73,7 +73,7 @@ Once we adjusted everything, we needed to update the School Summary to reflect t
 
 The results show the Modifed School Summary
 
-INSERT:  THS summary modified
+![THS summary modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_modified.png)
 
 ### How does replacing the 9th graders' math and reading scores affect Thomas High School's performance relative to other schools?
 
