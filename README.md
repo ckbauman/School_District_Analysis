@@ -87,7 +87,7 @@ The THS adjustments made minimal impact with comparison to other schools.
 
 ![THS summary high](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_high.png)
 
-As you can see, THS now has an Overall Passing rate of 90.63% which leaves them in the top 5 schools in the District.
+As you can see, THS now has an Overall Passing rate of 90.63% which leaves them in the top 5 schools in the District.  There is minimal impact if rounded to a whole number.
 
 
 ### How does replacing THS 9th grade scores affect math and reading scores by grade?
