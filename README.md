@@ -57,7 +57,7 @@ We also broke out the data to show a summary by school.  We were able to show th
 
 To adjust the data, first we had to determine how many students are in 10-12 grade at Thomas High School since we will not be using 9th grade scores.
 
-INSERT:  THS student count
+![THS student count](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_student_count.png)
 
 Next we determined how many THS students were passing math and reading individually as well as overall for both.  Passing is a score greater then 70.
 
