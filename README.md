@@ -16,7 +16,7 @@ A recent discovery shows that the testing data for 9th graders at Thomas High Sc
 
 We first had to modify the data for 9th graders at Thomas High School.  This was done by replacing all the math and reading scores with a Null value (np.NaN)
 
-INSERT:  Modify_Data_1-4
+![Modify Data](https://github.com/ckbauman/School_District_Analysis/blob/main/Modify_Data_1-4.png)
 
 The results show that the data has been modified.
 
