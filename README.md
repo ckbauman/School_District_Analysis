@@ -30,7 +30,7 @@ First we determined how many students are in 9th grade at Thomas High School.  T
 - Thomas High School 9th:  461
 - Adjusted Total Students: 38,709
 
-INSERT: Modify_Student_Count
+![Modify Count](https://github.com/ckbauman/School_District_Analysis/blob/main/Modify_Student_Count.png)
 
 Next we adjusted the passing percentages, for math and reading, using the adjusted total.  We also modified an overall percentage for both together.
 
