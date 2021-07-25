@@ -69,7 +69,7 @@ Then we determined what percent of THS students were passing math and reading.  
 
 Once we adjusted everything, we needed to update the School Summary to reflect the adjustements for Math, Reading and Overall.
 
-INSERT:  THS student replacement
+![THS student replacement](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_student_replacement.png)
 
 The results show the Modifed School Summary
 
