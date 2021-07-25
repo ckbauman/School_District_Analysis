@@ -65,7 +65,7 @@ Next we determined how many THS students were passing math and reading individua
 
 Then we determined what percent of THS students were passing math and reading.  We calculated this using the adjusted THS Total.
 
-INSERT:  THS student percent
+![THS student percent](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_Student_Percent.png)
 
 Once we adjusted everything, we needed to update the School Summary to reflect the adjustements for Math, Reading and Overall.
 
