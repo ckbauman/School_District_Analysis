@@ -79,11 +79,11 @@ The results show the Modifed School Summary
 
 The THS adjustments made minimal impact with comparison to other schools.
 
-- District Original top 5
+- District Original top 5 output
 
-![Dist top 5](![image](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_top_5.png)
+![Dist top 5](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_top_5.png)
 
-- Modified District top 5
+- Modified District top 5 output
 
 ![THS summary high](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_high.png)
 
