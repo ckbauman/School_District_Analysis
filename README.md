@@ -20,7 +20,7 @@ We first had to modify the data for 9th graders at Thomas High School.  This was
 
 The results show that the data has been modified.
 
-INSERT:  Modify_Data_Output
+![Modify Output](https://github.com/ckbauman/School_District_Analysis/blob/main/Modify_Data_Output.png)
 
 We then needed to make adjustments to the District Summary and recalculate the total student count.
 
