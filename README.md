@@ -1,7 +1,7 @@
 # School_District_Analysis
 Module 4 Anaconda
 
-## Overview of the School District Ananlysis
+## Overview of the School District Analysis
 
 The School_District_Analysis data shows testing results, for math and reading, by schools within the district.  We are able to show how each school is performing by grade level, type and size.
 
