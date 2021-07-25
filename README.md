@@ -48,6 +48,8 @@ The following shows results of the modification:
 
 ![summary modified](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_Summary_modified.png)
 
+Results show little impact on the overall totals, especially rounded to the whole number.
+
 
 ### How is School Summary affected?
 
@@ -93,7 +95,7 @@ As you can see, THS now has an Overall Passing rate of 90.63% which leaves them 
 
 ### How does replacing THS 9th grade scores affect math and reading scores by grade?
 
-Math and Reading scores per school reflect that the THS 9th grade scores were modified to a Null value indicated by NaN in the Analysis.
+Math and Reading scores per school reflect that the THS 9th grade scores were modified to a Null value indicated by NaN in the Analysis. Overall Math and Reading Averages showed minimal impact by changing THS null values.
 
 ![THS summary math](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_math.png)
 ![THS summary reading](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_reading.png)
