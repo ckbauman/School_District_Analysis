@@ -79,9 +79,13 @@ The results show the Modifed School Summary
 
 The THS adjustments made minimal impact with comparison to other schools.
 
-![THS summary high](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_high.png)
+- District Original top 5
 
-INSERT ORIGINAL DISRICT TOP 5
+![Dist top 5](![image](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_top_5.png)
+
+- Modified District top 5
+
+![THS summary high](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_high.png)
 
 As you can see, THS now has an Overall Passing rate of 90.63% which leaves them in the top 5 schools in the District.
 
