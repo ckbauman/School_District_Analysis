@@ -53,7 +53,7 @@ The following shows results of the modification:
 
 We also broke out the data to show a summary by school.  We were able to show the results for Thomas High School (THS) before we modified the summary.
 
-INSERT: THS summary original
+![THS summary original](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_summary_original.png)
 
 To adjust the data, first we had to determine how many students are in 10-12 grade at Thomas High School since we will not be using 9th grade scores.
 
