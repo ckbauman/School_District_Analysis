@@ -35,6 +35,7 @@ First we determined how many students are in 9th grade at Thomas High School.  T
 Next we adjusted the passing percentages, for math and reading, using the adjusted total.  We also modified an overall percentage for both together.
 
 INSERT:  Modify_student_percent
+![Modify percent](https://github.com/ckbauman/School_District_Analysis/blob/main/Modify_Student_Percent.png)
 
 the following shows results of the modification.
 
