@@ -108,16 +108,22 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
-INSERT:  Dist size original
-INSERT:  THS size modified
+- District Size Original
+![Dist size original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_size_original.png)
+
+- Modified District size output
+![THS size modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_size_modified.png)
 
 
 ### How does replacing THS 9th grade scores affect scores by school type?
 
 Summaries for school spending ranges shows no changes to the results.  Overall, there was little impact on the scoring because of the removal of the 9th grade values.
 
-INSERT:  Dist type original
-INSERT:  THS type modified
+- District type Original
+![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_original.png)
+
+- Modified District type output
+- ![THS type modified](https://github.com/ckbauman/School_District_Analysis/blob/main/THS_type_modified.png)
 
     - math and reading scores by grade
     - scores by school spending
