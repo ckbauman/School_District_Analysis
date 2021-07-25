@@ -121,7 +121,7 @@ Summaries for school spending ranges shows no changes to the results.  Overall, 
 
 - District type Original output
 
-![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_original.png)
+![Dist type original](https://github.com/ckbauman/School_District_Analysis/blob/main/Dist_type_originial.png)
 
 - Modified District type output
 
